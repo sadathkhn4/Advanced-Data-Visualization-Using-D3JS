@@ -1,0 +1,14 @@
+{
+  "name": "a96b30378cfe41db",
+  "main": "a96b30378cfe41db@1115.js",
+  "version": "1115.0.0",
+  "homepage": "https://observablehq.com/d/a96b30378cfe41db",
+  "author": {
+    "name": "Mohammed, Sadath Ullah Khan's Workspace",
+    "url": "https://observablehq.com/@mohammed-sadath-ullah-khan-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
